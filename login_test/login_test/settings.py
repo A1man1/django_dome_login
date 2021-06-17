@@ -37,6 +37,8 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'login_template',
     'rest_framework',
+    'rest_framework_jwt',
+
 ]
 
 MIDDLEWARE = [
